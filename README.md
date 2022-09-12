@@ -45,6 +45,11 @@ OC Version 0.8.3
  - Camera OK.
  - tracepad OK.
  - Sleep function ok.
+ 
+# How to use?
+1. Clone this repo.
+2. Modify SMBIOS info.
+3. Compile `BlockOptane.dsl` if you are using optane.
 
 # Information for Optane
 Please refer to this [PR #388](https://github.com/dortania/OpenCore-Install-Guide/pull/388)

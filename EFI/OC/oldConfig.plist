@@ -277,22 +277,17 @@
                 <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
                 <dict>
                     <key>AAPL,ig-platform-id</key>
-				<data>
-				BQCmPg==
-				</data>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,2,0</string>
-				<key>device-id</key>
-				<data>
-				mz4AAA==
-				</data>
-				<key>device_type</key>
-				<string>VGA compatible controller</string>
-				<key>hda-gfx</key>
-				<string>onboard-1</string>
-				<key>model</key>
-				<string>Intel CoffeeLake-H GT2 [UHD Graphics 630]</string>
-
+                    <data>BQCmPg==</data>
+                    <key>AAPL,slot-name</key>
+                    <string>Internal@0,2,0</string>
+                    <key>device-id</key>
+                    <data>mz4AAA==</data>
+                    <key>device_type</key>
+                    <string>VGA compatible controller</string>
+                    <key>hda-gfx</key>
+                    <string>onboard-1</string>
+                    <key>model</key>
+                    <string>Intel CoffeeLake-H GT2 [UHD Graphics 630]</string>
                 </dict>
             </dict>
             <key>Delete</key>
@@ -1498,13 +1493,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C020104014NP8PGFB</string>
+                <string>C02141401J9P8PG1F</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>AAOTRFrf</data>
+                <data>nK81LlzM</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1512,9 +1507,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro16,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02CD6Y7ML7H</string>
+                <string>C02GJLZKML7H</string>
                 <key>SystemUUID</key>
-                <string>207B8705-E7F3-415D-8DE2-D7FA12BDE1BC</string>
+                <string>20FC09A8-6CB2-4F54-8E69-476A7E6AD41B</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
