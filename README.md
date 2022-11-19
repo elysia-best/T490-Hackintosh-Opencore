@@ -1,6 +1,6 @@
 # T490-Hackintosh-Opencore
 This is Opencore for Thinkpad T490.
-OC Version 0.8.5
+OC Version 0.8.6
 
 # File included.
 - ACPI
