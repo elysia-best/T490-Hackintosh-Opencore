@@ -1,6 +1,6 @@
 # T490-Hackintosh-Opencore
 This is Opencore for Thinkpad T490.
-OC Version 0.8.3
+OC Version 0.8.6
 
 # File included.
 - ACPI
@@ -16,7 +16,8 @@ OC Version 0.8.3
   - BrightnessKeys.kext
   - ECEnabler.kext
   - IntelBluetoothFirmware.kext
-  - IntelBluetoothInjector.kext
+  - IntelBTPatcher.kext
+  - BlueToolFixup.kext
   - IntelMausi.kext
   - Lilu.kext
   - NVMeFix.kext
@@ -29,6 +30,7 @@ OC Version 0.8.3
   - VirtualSMC.kext
   - VoodooPS2Controller.kext
   - WhateverGreen.kext
+  - RealtekCardReader.kext 
 - Drivers
   - HfsPlus.efi
   - OpenCanopy.efi
@@ -38,7 +40,7 @@ OC Version 0.8.3
   
 # Compability
  - Optane SSD support. For modle 20RY.
- - macOS 11.6 tested. However macOS 13 may work.
+ - macOS 13.0.1 works.
  - Intel bluetooth and wlan. The airplay will display but it does not work.
  - Hand Off is suppoorted.
  - Light sensor OK.
